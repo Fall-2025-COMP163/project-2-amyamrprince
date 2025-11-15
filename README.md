@@ -7,6 +7,45 @@
 
 Build a simple character system that demonstrates mastery of object-oriented programming fundamentals: inheritance, method overriding, polymorphism, and composition. This project focuses on core OOP concepts without the complexity of a full game system.
 
+## Bonus Creative Features
+-Weapon classes(sword, Wand, Dagger) that provide damage bonuses
+-Clear combat messages for readability
+-Unique special abilities for each character class
+
+## AI Usage
+-Tweaking and improving comments throughout the code.
+
+-Debugging after running test cases.
+
+-Clarifying how to structure attack methods and damage calculations.
+
+-Polishing and finalizing this README.
+
+-All coding logic and implementation decisions were completed by me.
+
+## How to run
+This project is designed to work directly with the tester provided by the instructor.
+
+Open the code in your IDE(VS Code or PyCharm).
+
+Click Run.
+
+The tester will automatically:
+
+Create characters
+
+Display stats
+
+Test polymorphism
+
+Test special abilities
+
+Test weapon composition
+
+Run the battle system
+
+
+
 ## 📋 Getting Started
 
 1. **Complete your implementation** in `project2_starter.py`
