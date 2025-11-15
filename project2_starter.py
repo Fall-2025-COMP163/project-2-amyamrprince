@@ -252,7 +252,7 @@ class Rogue(Player):
         else:
             print(f"{self.name} attacks {target.name} for {damage} damage.")
         # Apply the damage to the target character    
-        target.take_damage(damage)
+        target.take_damage(damage) # Failed one of my test cases becasue I had this line of code inside my if statement block(Used AI to help me understand what i got wrong)
 
     def sneak_attack(self, target):
         """
